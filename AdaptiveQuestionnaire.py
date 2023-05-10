@@ -7,7 +7,7 @@ from random import uniform
 
 """ The aim of this script is to build an Adaptive Questionnaire
     and to store respondent's answers to analyse them later
-    using the so-called Conjoint Analysis."""
+    using the so-called Conjoint Analysis. Let's change this"""
 
 
 # We first include the Behavioral Questions.
