@@ -1,3 +1,4 @@
+# Welcome to Hierarchichal Bayes Ebooks program in R.
 # load the library to estimate multinomial choice models. 
 # This package needs to be installed first.
 library(mlogit)   # perform multinomial logit fitting
