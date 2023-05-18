@@ -10,6 +10,7 @@ from random import uniform
     using the so-called Conjoint Analysis. Let's change this"""
 
 
+
 # We first include the Behavioral Questions.
 # These questions might be used either to:
 # - Make respondents recall their previous purchasing behaviour
